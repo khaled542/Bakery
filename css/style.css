@@ -48,12 +48,7 @@ body
     color: black !important;
 }
 
- .fixedPiece
-{
-    height: 80px;
-    width: 40px;
-} 
-
+ 
 .about ul
 {
     line-height: 4;
@@ -116,7 +111,7 @@ body
 
     .home h1
     {
-        font-size: 50px;
+        font-size: 30px;
     }
     
 }
