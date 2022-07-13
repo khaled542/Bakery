@@ -1,0 +1,109 @@
+
+body
+{
+    line-height: 2;
+}
+
+.navbar
+{
+    transition: 2s all;
+}
+
+
+.navbar a
+{
+    color: white;
+} 
+
+.navbar a:hover
+{
+    color:orangered
+}
+
+.home
+{
+    background-image: url("../images/drew-coffman-1872.jpg");
+    background-size: 100% 100%;
+    color: white;
+}
+
+.home .content
+{
+    line-height: 3;
+}
+
+.home p
+{
+    font-size: 20px;
+}
+
+.home h1
+{
+    font-size: 70px;
+}
+
+.home .btn1:hover,.home .btn2:hover
+{
+    background-color: white !important;
+    color: black !important;
+}
+
+ .fixedPiece
+{
+    height: 80px;
+    width: 40px;
+} 
+
+.about ul
+{
+    line-height: 4;
+}
+
+.about p
+{
+    line-height: 2;
+}
+
+.ourOffer
+{
+    background-color: #F8F8F8;
+}
+
+.gallery p
+{
+    font-size: 15px;
+}
+
+.contact li
+{
+    line-height: 3;
+}
+
+.footer
+{
+    background-color: #403D38;
+    color: #969690;
+    font-size: 15px;
+}
+
+.footer h5
+{
+    color: white;
+}
+
+.footer li
+{
+    line-height: 2.5;
+    font-size: 15px;
+}
+
+.con li
+{
+    line-height: 3;
+}
+
+.copyright
+{
+    background-color: #353330;
+    color: #969690;
+}
