@@ -107,3 +107,18 @@ body
     background-color: #353330;
     color: #969690;
 }
+
+@media screen and (max-width : 600px){
+    .home .content
+    {
+        line-height: 2;
+    }
+
+    .home h1
+    {
+        font-size: 50px;
+    }
+    
+}
+
+
