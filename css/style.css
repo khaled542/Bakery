@@ -104,6 +104,17 @@ body
 }
 
 @media screen and (max-width : 600px){
+
+    .navbar
+    {
+        padding: 0 !important;
+    }
+
+    .navbar .container-fluid
+    {
+        padding: 0 !important;
+    }
+
     .home .content
     {
         line-height: 2;
